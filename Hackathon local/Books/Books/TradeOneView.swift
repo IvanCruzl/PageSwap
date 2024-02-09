@@ -46,7 +46,7 @@ struct TradeOneView: View {
             Text("Selecciona un libro")
                 .font(.title)
                 .bold()
-                .padding(.top, 30)
+                
                 .padding(.leading, 20)
 
             Text("Libros disponibles")

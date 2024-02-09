@@ -269,8 +269,8 @@ struct Inicio: View {
                 .tag(1)
                     
                 
-                Text("Contenido de la pestaña 3")
-                    .tabItem {
+                UploadView()
+                .tabItem {
                         Image(systemName: "plus.app")
                             .renderingMode(.template)
                             .foregroundColor(seleccionado == 1 ? .black : .gray)

@@ -19,6 +19,8 @@
 		2C23DA1A2B75887C00963C42 /* TradeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C23DA192B75887C00963C42 /* TradeView.swift */; };
 		2C23DA1E2B75CE2B00963C42 /* TradeOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C23DA1D2B75CE2B00963C42 /* TradeOneView.swift */; };
 		2C23DA222B769B3A00963C42 /* BagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C23DA212B769B3900963C42 /* BagView.swift */; };
+		2C23DA242B76E02800963C42 /* UploadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C23DA232B76E02800963C42 /* UploadView.swift */; };
+		2C23DA262B76E9DE00963C42 /* CameraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C23DA252B76E9DE00963C42 /* CameraView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +56,8 @@
 		2C23DA192B75887C00963C42 /* TradeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TradeView.swift; sourceTree = "<group>"; };
 		2C23DA1D2B75CE2B00963C42 /* TradeOneView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TradeOneView.swift; sourceTree = "<group>"; };
 		2C23DA212B769B3900963C42 /* BagView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BagView.swift; sourceTree = "<group>"; };
+		2C23DA232B76E02800963C42 /* UploadView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadView.swift; sourceTree = "<group>"; };
+		2C23DA252B76E9DE00963C42 /* CameraView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +113,8 @@
 				2C23DA1D2B75CE2B00963C42 /* TradeOneView.swift */,
 				2C23DA212B769B3900963C42 /* BagView.swift */,
 				2C23D9EB2B72951F00963C42 /* ContentView.swift */,
+				2C23DA252B76E9DE00963C42 /* CameraView.swift */,
+				2C23DA232B76E02800963C42 /* UploadView.swift */,
 				2C23DA132B729A0C00963C42 /* Inicio.swift */,
 				2C23DA152B7465B000963C42 /* libros.json */,
 				2C23D9ED2B72952000963C42 /* Assets.xcassets */,
@@ -277,8 +283,10 @@
 				2C23DA1A2B75887C00963C42 /* TradeView.swift in Sources */,
 				2C23D9EA2B72951F00963C42 /* BooksApp.swift in Sources */,
 				2C23DA1E2B75CE2B00963C42 /* TradeOneView.swift in Sources */,
+				2C23DA242B76E02800963C42 /* UploadView.swift in Sources */,
 				2C23DA142B729A0C00963C42 /* Inicio.swift in Sources */,
 				2C23DA222B769B3A00963C42 /* BagView.swift in Sources */,
+				2C23DA262B76E9DE00963C42 /* CameraView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
