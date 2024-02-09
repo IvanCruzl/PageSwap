@@ -1,0 +1,30 @@
+﻿[
+    {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "sinopsis": "Una obra maestra que narra la historia de la familia Buendía a lo largo de varias generaciones en el ficticio pueblo de Macondo.",
+        "idioma": "Español",
+        "tipo_pasta": "Blanda"
+    },
+    {
+        "titulo": "To Kill a Mockingbird",
+        "autor": "Harper Lee",
+        "sinopsis": "La historia de un abogado en el sur de Estados Unidos que defiende a un hombre negro acusado de violar a una mujer blanca, vista a través de los ojos de sus hijos.",
+        "idioma": "Inglés",
+        "tipo_pasta": "Dura"
+    },
+    {
+        "titulo": "El señor de los anillos",
+        "autor": "J.R.R. Tolkien",
+        "sinopsis": "Una trilogía de novelas épicas de fantasía que sigue la lucha de varios personajes para destruir el Anillo Único y derrotar al Señor Oscuro Sauron.",
+        "idioma": "Español",
+        "tipo_pasta": "Dura"
+    },
+    {
+        "titulo": "Harry Potter y la piedra filosofal",
+        "autor": "J.K. Rowling",
+        "sinopsis": "La primera novela de la serie de Harry Potter, que sigue las aventuras del joven mago Harry Potter y sus amigos Hermione Granger y Ron Weasley mientras asisten a la Escuela de Magia y Hechicería de Hogwarts.",
+        "idioma": "Español",
+        "tipo_pasta": "Blanda"
+    }
+]
